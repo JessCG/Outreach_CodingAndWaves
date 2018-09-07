@@ -12,16 +12,20 @@ Instructors, teachers or students wanting to use the activities provided are
 encouraged to read Coding Activities - Instructor Information. Very little to no 
 prior knowledge of R is assumed, but troubleshooting various issues will become 
 easier with experience. Lines starting with # are comments, text colors have 
-meaning, and exact syntax is crucial. Typos are usually responsible for most 
-errors when starting.
+meaning, and exact syntax is crucial. Typos or being in the wrong directory are 
+usually responsible for most errors when starting.
 
 General Instructions for Coding Activities apply to every activity and can be 
-printed once for each group of students.
+printed once for each group of students. Some activities include Powerpoint 
+presentations that were created by Helen Yip to guide students through the 
+activities. A final presentation given by students at the Ocean Discovery 
+Institute is also included. 
 
 Code was developed by Jessica C. Garwood (jgarwood@ucsd.edu) - efforts were 
-made to respect best coding standards :)
+made to respect best coding standards, but you may find exceptions :)
 
 Many thanks to Helen Yip from the Ocean Discovery Institute in San Diego for her 
 valuable feedback and for being the motivation behind this outreach, as well as 
-Nick Pizzo, Bia Villas Boas, and Derek J Grimes from the Scripps Institution of 
-Oceanography (UCSD) for generating the data.
+Derek J Grimes, Stephen Holleman, Nick Pizzo, and Bia Villas Boas, from the 
+Scripps Institution of Oceanography (UCSD) for wave tank demos and generating 
+the data.
