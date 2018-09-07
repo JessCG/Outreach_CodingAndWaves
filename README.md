@@ -13,10 +13,10 @@ errors when starting.
 General Instructions for Coding Activities apply to every activity and can be 
 printed once for each group of students.
 
-Code was developed by Jessica C. Garwood (jgarwood@ucsd.edu)
-Efforts were made to use best coding standards :)
+Code was developed by Jessica C. Garwood (jgarwood@ucsd.edu) - efforts were 
+made to respect best coding standards :)
 
-Many thanks to Helen Yip from the Ocean Discovery Institude in San Diego for her 
+Many thanks to Helen Yip from the Ocean Discovery Institute in San Diego for her 
 valuable feedback and being the motivation behind this outreach, as well as Nick 
 Pizzo, Bia Villas Boas, and Derek J Grimes from the Scripps Institution of 
 Oceanography (UCSD) for generating the data.
