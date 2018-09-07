@@ -1,7 +1,8 @@
 # Outreach_CodingAndWaves
 Activities developed to introduce middle or high school students to programming,
 as well as data analysis and oceanography, using an example with waves generated 
-in the Scripps Institution of Oceanography's wave tank.
+in the Scripps Institution of Oceanography's wave tank. You will need to download 
+R and RStudio, both are free.
 
 For those not familiar with GitHub, the best way to get started with this 
 material is to navigate to the Outreach_CodingAndWaves folder, then click on the 
