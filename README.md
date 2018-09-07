@@ -4,7 +4,8 @@ as well as data analysis and oceanography, using an example with waves generated
 in the Scripps Institution of Oceanography's wave tank.
 
 For those not familiar with GitHub, the best way to get started with this 
-material is to click the green button "Clone or download" and "Download ZIP". 
+material is to navigate to the Outreach_CodingAndWaves folder, then click on the 
+green button "Clone or download" to the right of the screen, then "Download ZIP". 
 This will download all the files and folders to your computer.
 
 Instructors, teachers or students wanting to use the activities provided are 
