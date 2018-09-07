@@ -6,7 +6,8 @@ in the Scripps Institution of Oceanography's wave tank.
 For those not familiar with GitHub, the best way to get started with this 
 material is to navigate to the Outreach_CodingAndWaves folder, then click on the 
 green button "Clone or download" to the right of the screen, then "Download ZIP". 
-This will download all the files and folders to your computer.
+This will download all the files and folders to your computer. The zipped package 
+is ~310 MB and will take a few minutes to download.
 
 Instructors, teachers or students wanting to use the activities provided are 
 encouraged to read Coding Activities - Instructor Information. Very little to no 
